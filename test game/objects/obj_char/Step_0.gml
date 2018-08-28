@@ -1,3 +1,5 @@
+
+
 // player input
 key_left = keyboard_check(vk_left) or keyboard_check(ord("A"));
 key_right = keyboard_check(vk_right) or keyboard_check(ord("D"));
@@ -65,3 +67,6 @@ if(!place_meeting(x,y+1,obj_wall)) //checks if youre in the air or not
 	}
 }
 	if (hspd != 0) image_xscale = sign(hspd);
+	
+	
+	

@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0ecbdcac-22b0-4b59-913e-3ad5c0618a3d",
+            "Value": {
+                "id": "54d9f0af-661f-42ad-a103-1eb888a2c884",
+                "resourcePath": "sprites\\sprite7\\sprite7.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1240cc8f-d7ff-4ea7-8f0f-204077f3d8a8",
             "Value": {
                 "id": "3ec05d15-2dbd-4360-90e3-a35f2a7f49d6",
@@ -52,6 +60,14 @@
                 "id": "afcbb5e0-5dd6-4657-9354-3efad69d6470",
                 "resourcePath": "views\\2f3bae9e-8839-4622-98ab-9154565bcc7c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "36a26398-f418-4f6c-b777-4675c873415c",
+            "Value": {
+                "id": "c61519b9-8852-4de5-8a24-fb5edd26f3d3",
+                "resourcePath": "objects\\gun_1\\gun_1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -159,6 +175,14 @@
             }
         },
         {
+            "Key": "90679b17-7c8a-49ab-a122-fdfff054398a",
+            "Value": {
+                "id": "c33ff74a-827a-47c7-ab2c-8cb1dd0b9d81",
+                "resourcePath": "sprites\\sprite6\\sprite6.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a51789d7-0df4-42e8-8147-3e4cd1d100c8",
             "Value": {
                 "id": "f2c11c0b-813a-4390-ad20-d2809abe54df",
@@ -172,6 +196,14 @@
                 "id": "4e2f2f43-c612-477f-86be-ddfaebcc695c",
                 "resourcePath": "views\\ab035605-15f4-4867-84e1-e10976750c0f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ade7cfed-dcc6-46a2-a6a6-bdeb204625a4",
+            "Value": {
+                "id": "fdc25d9a-0522-49ee-b881-c527e25abc52",
+                "resourcePath": "objects\\pistol_front_1\\pistol_front_1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -228,6 +260,14 @@
                 "id": "3f41c362-603e-4efa-b49e-169834d33914",
                 "resourcePath": "views\\e6420124-99d3-4f6a-a8d0-76077c611b78.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ec9253fc-163d-42ad-91e2-608192079a04",
+            "Value": {
+                "id": "a1508c02-8d4f-48e0-b512-2f9ea71d9be9",
+                "resourcePath": "sprites\\sprite8\\sprite8.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
