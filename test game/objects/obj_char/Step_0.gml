@@ -13,7 +13,7 @@ vspd = vspd + grv;
 
 if (place_meeting(x,y+1,obj_wall)) && (key_jump)
 {
-	vspd = -13
+	vspd = -15
 }
 
 // horizontal collision
